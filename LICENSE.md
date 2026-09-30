@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [Year] [Tarun Kumar Das]
+Copyright (c) [2026] [Tarun Kumar Das]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation  Here is a standard **MIT License** tailored for your project repository. Just replace `[2026]` and `[Tarun Kumar Das]` with your actual details:
