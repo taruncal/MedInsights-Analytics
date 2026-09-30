@@ -1,14 +1,14 @@
 MIT License
 
-Copyright (c) [Year] [Your Name]
+Copyright (c) [Year] [Tarun Kumar Das]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentationHere is a standard **MIT License** tailored for your project repository. Just replace `[Year]` and `[Your Name]` with your actual details:
+of this software and associated documentation  Here is a standard **MIT License** tailored for your project repository. Just replace `[2026]` and `[Tarun Kumar Das]` with your actual details:
 
 ```text
 MIT License
 
-Copyright (c) [Year] [Your Name]
+Copyright (c) [2026] [Tarun Kumar Das]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
